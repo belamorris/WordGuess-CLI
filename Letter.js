@@ -20,3 +20,5 @@ var Letter = function(newLetter) {
 			this.solved = true;
 	};
 }
+
+module.exports = Letter;
