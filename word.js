@@ -42,3 +42,6 @@ var Word = function(newWord) {
 		}
 	}
 }
+
+
+module.exports = Word;
