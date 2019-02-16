@@ -1,7 +1,7 @@
 var Word = require("./Word.js");
 var inquirer = require ("inquirer");
 
-var words = ["Fullmetal Alchemist Brotherhood", "Parasyte", "Ouran High School Host Club", "Princess Mononoke", "Garzeys Wing", "Wolfs Rain", "Space Dandy", "Blue Exorcist", "One Punch Man", "One Piece", "Penguindrum", "Madoka Magica", "Howls Moving Castle"];
+var words = ["Over the line", "Your roll dude", "The Dude abides", "Nice marmot", "The Dude", "Walter", "Donnie", "Jeffery Lebowski"];
 var currentWord;
 var currentWordString;
 
